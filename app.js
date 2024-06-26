@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const port = 8080;
 
-let PartyList = [
+let partyList = [
     {
         sn: 0,
         type: 1,
